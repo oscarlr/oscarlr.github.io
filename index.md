@@ -1,1 +1,1 @@
-<img src="/Oscar Rodriguez.jpg" alt="Drawing" style="width: 400px;"/>
+<img src="/Oscar Rodriguez.jpg" alt="Drawing" style="width: 300px;"/>
