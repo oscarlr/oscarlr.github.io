@@ -1,4 +1,5 @@
 <img align="left" src="/Oscar Rodriguez.jpg" alt="Drawing" style="width: 250px;"/> <br><br>I'm a PhD student in Ali Bashir’s and Andrew Sharp’s lab at the Icahn School of Medicine at Mount Sinai. I’m interested in genomics and bioinformatics, specifically genomic variation and genome functionality.
+(oscar.rodriguez@icahn.mssm.edu)
 <br>
 <br>
 <br>
