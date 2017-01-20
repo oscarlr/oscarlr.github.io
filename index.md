@@ -6,4 +6,4 @@
 <br>
 <br>
 <h1 style="color:black;">Publications</h1>
-1. Maxwell W. Libbrecht, **Oscar Rodriguez*** (*contributed equally), Jeffrey A. Bilmes, Zhiping Weng, William S. Noble. A unified encyclopedia of human functional elements through fully automated annotation of 164 human cell types. Submitted. Data: annotations and encyclopedia.
+1. Maxwell W. Libbrecht, **Oscar Rodriguez*** (*contributed equally), Jeffrey A. Bilmes, Zhiping Weng, William S. Noble. [A unified encyclopedia of human functional elements through fully automated annotation of 164 human cell types](http://biorxiv.org/content/early/2016/11/07/086025). Submitted.
