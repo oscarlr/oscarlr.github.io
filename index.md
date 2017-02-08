@@ -13,6 +13,10 @@
 
 <h1 style="color:black;">Awards</h1>
 1. 2016 ASHG Reviewer's Choice Abstract (abstract scored in top 10% of poster abstracts) and featured in Poster Walk.  *Haplotype resolved SV assembly: Producing gold-standard SV calls on diploid genomes using PacBio and 10X sequencing data.*
+2. SACNAS 2013 National Conference Travel Scholarship
+3. University of Washington Genomic Outreach for Minorities Project Travel Scholarship, 2013
+4. University of Washington Genomic Outreach for Minorities Project Travel Scholarship, 2014
+5. Boston University Bioinformatics Diversity Travel Fellowship, 2014
 
 <h1 style="color:black;">Software</h1>
 1. [Pipeline for diploid assembly and structural variant detection]()
