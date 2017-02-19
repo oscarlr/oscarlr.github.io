@@ -19,4 +19,4 @@
 5. Boston University Bioinformatics Diversity Travel Fellowship, 2014
 
 <h1 style="color:black;">Software</h1>
-1. [Pipeline for diploid assembly and structural variant detection]()
+1. [Pipeline for diploid assembly and structural variant detection](https://bitbucket.org/oscarlr/slap)
