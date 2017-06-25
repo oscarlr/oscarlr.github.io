@@ -12,7 +12,7 @@
 4. Xintong Chen, **Oscar Rodriguez**, Matthew Pendleton, Bojan Losic and Ali Bashir. TransPac: transposon detection and characterization from long-reads. Submitted.
 
 <h1 style="color:black;">Awards</h1>
-1. 2017 Mindich Child Health and Development Institute Trainee Pilot Progam Grant
+1. 2017 Mindich Child Health and Development Institute Trainee Pilot Program Grant
 2. 2016 ASHG Reviewer's Choice Abstract (abstract scored in top 10% of poster abstracts) and featured in Poster Walk.  *Haplotype resolved SV assembly: Producing gold-standard SV calls on diploid genomes using PacBio and 10X sequencing data.*
 3. SACNAS 2013 National Conference Travel Scholarship
 4. University of Washington Genomic Outreach for Minorities Project Travel Scholarship, 2013
