@@ -1,4 +1,4 @@
-<img align="left" src="/Oscar Rodriguez.jpg" alt="Drawing" style="width: 250px;"/> <br><br>I'm a PhD student in Ali Bashir’s and Andrew Sharp’s lab at the Icahn School of Medicine at Mount Sinai. I’m interested in genomics and bioinformatics, specifically genomic variation and genome functionality.
+<img align="left" src="/Oscar Rodriguez.jpg" alt="Drawing" style="width: 250px;"/> <br><br>I'm a 2nd year PhD candidate in Ali Bashir’s and Andrew Sharp’s lab at the Icahn School of Medicine at Mount Sinai. My long-term research goals are to focus on complex regions of the genome and their implications in biology, association studies and eventually the functional aspects of these regions. I’m specifically interested in resolving diploid genomes in a de novo fashion, and how we can modify genomic studies using de novo assembled genomes.
 <br>
 <br>
 <br>
@@ -19,4 +19,4 @@
 5. Boston University Bioinformatics Diversity Travel Fellowship, 2014
 
 <h1 style="color:black;">Software</h1>
-1. [Pipeline for diploid assembly and structural variant detection](https://bitbucket.org/oscarlr/slap)
+1. [Pipeline for diploid assembly and structural variant detection](https://bitbucket.org/oscarlr/mspac)
