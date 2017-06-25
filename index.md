@@ -13,8 +13,8 @@
 
 <h1 style="color:black;">Awards</h1>
 1. 2017 Mindich Child Health and Development Institute Trainee Pilot Program Grant
-2. 2016 ASHG Reviewer's Choice Abstract (abstract scored in top 10% of poster abstracts) and featured in Poster Walk.  *Haplotype resolved SV assembly: Producing gold-standard SV calls on diploid genomes using PacBio and 10X sequencing data.*
-3. SACNAS 2013 National Conference Travel Scholarship
+2. 2016 American Society of Human Genetics Reviewer's Choice Abstract (abstract scored in top 10% of poster abstracts) and featured in Poster Walk.  *Haplotype resolved SV assembly: Producing gold-standard SV calls on diploid genomes using PacBio and 10X sequencing data.*
+3. Society for the Advancement of Chicanos/Hispanics and Native Americans 2013 National Conference Travel Scholarship
 4. University of Washington Genomic Outreach for Minorities Project Travel Scholarship, 2013
 5. University of Washington Genomic Outreach for Minorities Project Travel Scholarship, 2014
 6. Boston University Bioinformatics Diversity Travel Fellowship, 2014
