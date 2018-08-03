@@ -1,4 +1,8 @@
-<img align="left" src="/Oscar Rodriguez.jpg" alt="Drawing" style="width: 250px;"/> <br><br>I'm a 2nd year PhD candidate in Ali Bashir’s and Andrew Sharp’s lab at the Icahn School of Medicine at Mount Sinai. My long-term research goals are to focus on complex regions of the genome and their implications in biology, association studies and eventually the functional aspects of these regions. I’m specifically interested in resolving diploid genomes in a de novo fashion, and how we can modify genomic studies using de novo assembled genomes.
+<img align="left" src="/Oscar Rodriguez.jpg" alt="Drawing" style="width: 250px;"/> 
+<br>
+<br>
+<br>I'm a fourth year PhD student at the 
+Icahn School of Medicine at Mount Sinai, Department of Genetics and Genomic Sciences. My research centers on resolving "complex" regions of the human genome with a primary focus on tandem repeat loci and the immunoglobulin heavy chain locus. 
 <br>
 <br>
 <br>
