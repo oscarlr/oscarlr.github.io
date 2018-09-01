@@ -1,4 +1,4 @@
-<img align="left" src="/Oscar Luis Rodriguez.jpg" alt="Drawing" style="width: 300px;"/> 
+<img align="left" src="/Oscar Rodriguez.jpg" alt="Drawing" style="width: 300px;"/> 
 <br>
 <br>I'm a fourth year PhD student at the 
 Icahn School of Medicine at Mount Sinai, Department of Genetics and Genomic Sciences. I'm primarly interested in understanding the **whole** human genome architecture, and not just the consequence (phenotype, traits, etc) of such a structure but understanding why it is the way it is (history). My current research includes resolving "complex" regions of the human genome with a primary focus on tandem repeat loci and the immunoglobulin heavy chain locus.
