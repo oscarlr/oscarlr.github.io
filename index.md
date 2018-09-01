@@ -1,4 +1,5 @@
-<img align="left" src="/Oscar Rodriguez.jpg" alt="Drawing" style="width: 250px;"/> 
+<img align="left" src="/Oscar Rodriguez.jpg" alt="Drawing" style="width: 300px;"/> 
+<br>
 <br>
 <br>
 <br>I'm a fourth year PhD student at the 
