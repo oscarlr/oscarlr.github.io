@@ -15,12 +15,13 @@ Icahn School of Medicine at Mount Sinai, Department of Genetics and Genomic Scie
 4. Xintong Chen, **Oscar Rodriguez**, Matthew Pendleton, Bojan Losic and Ali Bashir. TransPac: transposon detection and characterization from long-reads. Submitted.
 
 <h1 style="color:black;">Awards</h1>
-1. 2017 Mindich Child Health and Development Institute Trainee Pilot Program Grant
-2. 2016 American Society of Human Genetics Reviewer's Choice Abstract (abstract scored in top 10% of poster abstracts) and featured in Poster Walk.  *Haplotype resolved SV assembly: Producing gold-standard SV calls on diploid genomes using PacBio and 10X sequencing data.*
-3. Society for the Advancement of Chicanos/Hispanics and Native Americans 2013 National Conference Travel Scholarship
-4. University of Washington Genomic Outreach for Minorities Project Travel Scholarship, 2013
-5. University of Washington Genomic Outreach for Minorities Project Travel Scholarship, 2014
-6. Boston University Bioinformatics Diversity Travel Fellowship, 2014
+1. 2018-2020 F31 Predoctoral Ruth L. Kirschstein National Research Service Award, National Institute of Neurological Disorders and Stroke, National Institute of Health
+2. 2017 Mindich Child Health and Development Institute Trainee Pilot Program Grant
+3. 2016 American Society of Human Genetics Reviewer's Choice Abstract (abstract scored in top 10% of poster abstracts) and featured in Poster Walk.  *Haplotype resolved SV assembly: Producing gold-standard SV calls on diploid genomes using PacBio and 10X sequencing data.*
+4. Society for the Advancement of Chicanos/Hispanics and Native Americans 2013 National Conference Travel Scholarship
+5. University of Washington Genomic Outreach for Minorities Project Travel Scholarship, 2013
+6. University of Washington Genomic Outreach for Minorities Project Travel Scholarship, 2014
+7. Boston University Bioinformatics Diversity Travel Fellowship, 2014
 
 <h1 style="color:black;">Software</h1>
 1. [Pipeline for diploid assembly and structural variant detection](https://bitbucket.org/oscarlr/mspac)
