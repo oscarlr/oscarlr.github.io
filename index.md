@@ -1,6 +1,6 @@
 <figure>
   <img align="left" src="/Oscar Rodriguez.jpg" alt="Drawing" style="width: 300px;"/> 
-  <figcaption>I'm a fourth year PhD student at the Icahn School of Medicine at Mount Sinai, Department of Genetics and Genomic Sciences. I'm interested in understanding the <b>whole</b> human genome architecture, its diversity, and the consequence (phenotype, traits, etc) and evolution of such a structure. My current research is on human genome assembly and structural variation. Two areas that I primarily focus on are tandem repeats which underly several neurological disorders and the immunoglobulin heavy chain locus which contains the genes necessary to make an individual's antibody repertoire.</figcaption>
+  <figcaption>I'm a fourth year PhD student at the Icahn School of Medicine at Mount Sinai, Department of Genetics and Genomic Sciences. I'm interested in understanding the <b>whole</b> human genome architecture, its diversity, and the consequence (phenotype, traits, etc) and evolution of such a structure. My current research is on human genome assembly and structural variation. Two areas that I primarily focus on are tandem repeats which underly several neurological disorders and the immunoglobulin heavy chain locus which contains genes that encode antibodies.</figcaption>
 </figure>
 <br>
 <br>
