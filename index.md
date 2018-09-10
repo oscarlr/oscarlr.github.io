@@ -2,13 +2,6 @@
   <img align="left" src="/Oscar Rodriguez.jpg" alt="Drawing" style="width: 300px;"/> 
   <figcaption>I'm a fourth year PhD student at the Icahn School of Medicine at Mount Sinai, Department of Genetics and Genomic Sciences. I'm interested in understanding the <b>whole</b> human genome architecture, and the consequence (phenotype, traits, etc) and rise of such a structure (why it is the way it is). My current research focuses on resolving "complex" regions of the human genome with a primary focus on tandem repeat loci and the immunoglobulin heavy chain locus.</figcaption>
 </figure>
-
-<p align="left">
-<img align="left" src="/Oscar Rodriguez.jpg" alt="Drawing" style="width: 300px;"/> 
-<br>
-I'm a fourth year PhD student at the Icahn School of Medicine at Mount Sinai, Department of Genetics and Genomic Sciences. I'm interested in understanding the <b>whole</b> human genome architecture, and the consequence (phenotype, traits, etc) and rise of such a structure (why it is the way it is). My current research focuses on resolving "complex" regions of the human genome with a primary focus on tandem repeat loci and the immunoglobulin heavy chain locus.
-<br>
-</p>
 <br>
 <br>
 <h1 style="color:black;">Publications</h1>
