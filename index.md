@@ -2,8 +2,12 @@
 <br>
 <br>
 <table>
+<tr>
+<td>
 I'm a fourth year PhD student at the Icahn School of Medicine at Mount Sinai, Department of Genetics and Genomic Sciences. I'm interested in understanding the **whole** human genome architecture, and the consequence (phenotype, traits, etc) and rise of such a structure (why it is the way it is). My current research focuses on resolving "complex" regions of the human genome with a primary focus on tandem repeat loci and the immunoglobulin heavy chain locus.
- </table>
+ </td>
+ </tr>
+</table>
 <br>
 <br>
 <br>
