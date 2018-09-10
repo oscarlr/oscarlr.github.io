@@ -10,7 +10,7 @@ Icahn School of Medicine at Mount Sinai, Department of Genetics and Genomic Scie
 <br>
 <h1 style="color:black;">Publications</h1>
 1. Human Genome Structural Variation Consortium. [Multi-platform discovery of haplotype-resolved structural variation in human genomes](https://www.biorxiv.org/content/biorxiv/early/2017/09/23/193144.full.pdf). Submitted.
-1. Maxwell W. Libbrecht\*, **Oscar Rodriguez**\* (*contributed equally), Jeffrey A. Bilmes, Zhiping Weng, William S. Noble. [A unified encyclopedia of human functional elements through fully automated annotation of 164 human cell types](http://biorxiv.org/content/early/2016/11/07/086025). Submitted.
+1. Maxwell W. Libbrecht\*, **Oscar Rodriguez**\* (*contributed equally), Jeffrey A. Bilmes, Zhiping Weng, William S. Noble. [A unified encyclopedia of human functional elements through fully automated annotation of 164 human cell types](https://www.biorxiv.org/content/biorxiv/early/2016/11/07/086025.full.pdf). Submitted.
 2. Eric Moyer, Megan Hagenauer, Matthew Lesko, Felix Francis, **Oscar Rodriguez**, Vijayaraj Nagarajan, Vojtech Huser, Ben Busbya. [MetaNetVar: Pipeline for applying network analysis tools for genomic variants analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4857755/). *F1000 Research*
 3. **Oscar Rodriguez**, Matthew Pendleton, Alex Ledger, Anna Ritz, Ali Bashir. Haplotype resolved assembly and structural variant detection with long-reads. Submitted.
 4. Xintong Chen, **Oscar Rodriguez**, Matthew Pendleton, Bojan Losic and Ali Bashir. TransPac: transposon detection and characterization from long-reads. Submitted.
