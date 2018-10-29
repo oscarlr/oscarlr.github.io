@@ -6,6 +6,9 @@ I'm a 4th year PhD student at the Icahn School of Medicine at Mount Sinai, Depar
 <p>
 In order to understand the role of genetic variation, the first step is identity all types of genetic variants. My current research is on human diploid genome assembly and structural variation, particularly in complex regions of the human genome. Two complex regions/region-types that I primarily focus on are tandem repeats which underly several neurological disorders and the immunoglobulin heavy chain locus which encode antibody genes.
 </p>
+<p>
+Questions that I am particularly interested in are: Why are some regions more complex that others? What is the/Is there an evolutionary pressure to maintain these loci more complex? Are there certain biological functions that are enriched for complex regions of the human genome? What is the role of epigenetics in these complex regions?
+</p>
 
 <h1 style="color:black;">Publications</h1>
 1. Human Genome Structural Variation Consortium. [Multi-platform discovery of haplotype-resolved structural variation in human genomes](https://www.biorxiv.org/content/biorxiv/early/2017/09/23/193144.full.pdf). Submitted.
