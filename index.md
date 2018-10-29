@@ -7,6 +7,7 @@ I'm a 4th year PhD student at the Icahn School of Medicine at Mount Sinai, Depar
 In order to understand the role of genetic variation, the first step is to determine 
   
 My current research is on human diploid genome assembly and structural variation. Two areas that I primarily focus on are tandem repeats which underly several neurological disorders and the immunoglobulin heavy chain locus which contains genes responsible for encoding antibody proteins.
+</p>
 
 <h1 style="color:black;">Publications</h1>
 1. Human Genome Structural Variation Consortium. [Multi-platform discovery of haplotype-resolved structural variation in human genomes](https://www.biorxiv.org/content/biorxiv/early/2017/09/23/193144.full.pdf). Submitted.
