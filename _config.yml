@@ -4,4 +4,4 @@ theme: jekyll-theme-minimal
 title: Oscar Luis Rodriguez
 description: Testing.
 logo: Oscar_Rodriguez.jpg
-show_downloads: true
+show_downloads: false
