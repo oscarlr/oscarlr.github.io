@@ -2,6 +2,6 @@ name: Oscar Luis Rodriguez
 markdown: kramdown
 theme: jekyll-theme-minimal
 title: Oscar Luis Rodriguez
-description: Testing.
+description: I'm a fourth year PhD student at the Icahn School of Medicine at Mount Sinai, Department of Genetics and Genomic Sciences. I'm interested in understanding the <b>whole</b> human genome architecture, its diversity, and the consequence (phenotype, traits, etc) and evolution of such a structure. My current research is on human diploid genome assembly and structural variation. Two areas that I primarily focus on are tandem repeats which underly several neurological disorders and the immunoglobulin heavy chain locus which contains genes responsible for encoding antibody proteins.
 logo: Oscar Rodriguez.jpg
 show_downloads: false
