@@ -2,3 +2,6 @@ name: Oscar Luis Rodriguez
 markdown: kramdown
 theme: jekyll-theme-minimal
 title: Oscar Luis Rodriguez
+description: Testing.
+logo: Oscar_Rodriguez.jpg
+show_downloads: true
