@@ -1,8 +1,12 @@
 
 <h1 style="color:black;">About</h1>
-I'm a 4th year PhD student at the Icahn School of Medicine at Mount Sinai, Department of Genetics and Genomic Sciences. Fundamentally, I'm interesting in understanding how our human genome gives rise to who we are.
-
-I'm interested in understanding the <b>whole</b> human genome architecture, its diversity, and the consequence (phenotype, traits, etc) and evolution of such a structure. My current research is on human diploid genome assembly and structural variation. Two areas that I primarily focus on are tandem repeats which underly several neurological disorders and the immunoglobulin heavy chain locus which contains genes responsible for encoding antibody proteins.
+<p>
+I'm a 4th year PhD student at the Icahn School of Medicine at Mount Sinai, Department of Genetics and Genomic Sciences. I'm interesting in the human genome architecture and genetic variation, and the role that these play in human traits and different phenotypes.
+</p>
+<p>
+In order to understand the role of genetic variation, the first step is to determine 
+  
+My current research is on human diploid genome assembly and structural variation. Two areas that I primarily focus on are tandem repeats which underly several neurological disorders and the immunoglobulin heavy chain locus which contains genes responsible for encoding antibody proteins.
 
 <h1 style="color:black;">Publications</h1>
 1. Human Genome Structural Variation Consortium. [Multi-platform discovery of haplotype-resolved structural variation in human genomes](https://www.biorxiv.org/content/biorxiv/early/2017/09/23/193144.full.pdf). Submitted.
