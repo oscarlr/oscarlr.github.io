@@ -4,7 +4,3 @@ theme: jekyll-theme-minimal
 title: Oscar L. Rodriguez
 logo: Oscar Rodriguez.jpg
 show_downloads: false
-links:
-  - label: "GitHub"
-  icon: "fab fa-fw fa-github"
-  url: https://github.com/oscarlr
