@@ -11,12 +11,12 @@ Questions that I am particularly interested in are: Why are some regions more co
 </p>
 
 <h1 style="color:black;">Publications</h1>
-1. Cirelli, K.M., Carnathan, D.G., Nogal, B., **Rodriguez, O.L.**, Martin, J.T., Upadhyay, A.A., Enemuo, C.A., Gebru, E.H., Choe, Y., Viviano, F., Nakao, C., Pauthner, M., Reiss, S., Cottrell, C.A., Bastidas, R., Gibson, W., Wolabaugh, A.N., Melo, M.B., Cosette, B., Kuman, V., Patel, N., Tokatlian, T., Menis, S., Kulp, D.W., Burton, D.R., Murrell, B., Bosinger, S.E., Schief, W.R., Ward, A.B., Watson, C.T., Silvestri, G., Irvine, D.J., Crotty, S. [Slow delivery immunization enhances HIV neutralizing antibody and germinal center responses via modulation of immunodominance](https://www.biorxiv.org/content/biorxiv/early/2018/10/01/432666.full.pdf). Submitted.
-2. [Multi-platform discovery of haplotype-resolved structural variation in human genomes](https://www.nature.com/articles/s41467-018-08148-z). Nat. Commun. 10, 1784 (2019)
-3. Libbrecht, M.W. \*, **Rodriguez, O.L.**\* (*contributed equally), Bilmes, J.A., Weng, Z., Noble, W.S. [A unified encyclopedia of human functional elements through fully automated annotation of 164 human cell types](https://www.biorxiv.org/content/biorxiv/early/2016/11/07/086025.full.pdf). Submitted.
-4. Moyer, E., Hagenauer, M., Lesko, M., Francis, F., **Rodriguez, O.L.**, Nagarajan, V., Huser, V., Busbya, B. [MetaNetVar: Pipeline for applying network analysis tools for genomic variants analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4857755/). *F1000 Research*
-5. **Oscar Rodriguez**, Matthew Pendleton, Alex Ledger, Anna Ritz, Ali Bashir. Haplotype resolved assembly and structural variant detection with long-reads. Submitted.
-6. Xintong Chen, **Oscar Rodriguez**, Matthew Pendleton, Bojan Losic and Ali Bashir. TransPac: transposon detection and characterization from long-reads. Submitted.
+1. [Slow delivery immunization enhances HIV neutralizing antibody and germinal center responses via modulation of immunodominance](https://www.biorxiv.org/content/biorxiv/early/2018/10/01/432666.full.pdf). Cell (2019)
+2. [Multi-platform discovery of haplotype-resolved structural variation in human genomes](https://www.nature.com/articles/s41467-018-08148-z). Nature Commun. 10, 1784 (2019)
+3. [A unified encyclopedia of human functional elements through fully automated annotation of 164 human cell types](https://www.biorxiv.org/content/biorxiv/early/2016/11/07/086025.full.pdf). bioRxiv
+4. [MetaNetVar: Pipeline for applying network analysis tools for genomic variants analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4857755/). F1000Res. 5, 674 (2016)
+5. Haplotype resolved assembly and structural variant detection with long-reads. Submitted.
+6. TransPac: transposon detection and characterization from long-reads. Submitted.
 
 <h1 style="color:black;">Awards</h1>
 1. 2018-2020 F31 Predoctoral Ruth L. Kirschstein National Research Service Award, National Institute of Neurological Disorders and Stroke, National Institute of Health
