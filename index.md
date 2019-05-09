@@ -11,7 +11,7 @@ Questions that I am particularly interested in are: Why are some regions more co
 </p>
 
 <h1 style="color:black;">Publications</h1>
-1. [Slow delivery immunization enhances HIV neutralizing antibody and germinal center responses via modulation of immunodominance](https://www.biorxiv.org/content/biorxiv/early/2018/10/01/432666.full.pdf). Cell (2019)
+1. [Slow Delivery Immunization Enhances HIV Neutralizing Antibody and Germinal Center Responses via Modulation of Immunodominance.](https://www.cell.com/cell/fulltext/S0092-8674(19)30398-8#%20). Cell (2019)
 2. [Multi-platform discovery of haplotype-resolved structural variation in human genomes](https://www.nature.com/articles/s41467-018-08148-z). Nature Commun. 10, 1784 (2019)
 3. [A unified encyclopedia of human functional elements through fully automated annotation of 164 human cell types](https://www.biorxiv.org/content/biorxiv/early/2016/11/07/086025.full.pdf). bioRxiv
 4. [MetaNetVar: Pipeline for applying network analysis tools for genomic variants analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4857755/). F1000Res. 5, 674 (2016)
