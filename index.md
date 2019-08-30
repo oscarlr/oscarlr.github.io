@@ -14,9 +14,9 @@ Questions that I am particularly interested in are: Why are some regions more co
 1. [Slow Delivery Immunization Enhances HIV Neutralizing Antibody and Germinal Center Responses via Modulation of Immunodominance](https://www.cell.com/cell/fulltext/S0092-8674(19)30398-8#%20). Cell (2019)
 2. [Multi-platform discovery of haplotype-resolved structural variation in human genomes](https://www.nature.com/articles/s41467-018-08148-z). Nature Commun. 10, 1784 (2019)
 3. [A unified encyclopedia of human functional DNA elements through fully automated annotation of 164 human cell types](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1784-2). Genome Biol. 20, 180 (2019).
-4. [A robust benchmark for germline structural variant detection](https://www.biorxiv.org/content/10.1101/664623v3). bioRxiv 664623 (2019). doi:10.1101/664623
-5. [MetaNetVar: Pipeline for applying network analysis tools for genomic variants analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4857755/). F1000Res. 5, 674 (2016)
-6. Haplotype resolved assembly and structural variant detection with long-reads. Submitted.
+4. [MsPAC: A tool for haplotype-phased structural variant detection](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz618/5545544). Bioinformatics (2019). doi:10.1093/bioinformatics/btz618
+5. [A robust benchmark for germline structural variant detection](https://www.biorxiv.org/content/10.1101/664623v3). bioRxiv 664623 (2019). doi:10.1101/664623
+6. [MetaNetVar: Pipeline for applying network analysis tools for genomic variants analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4857755/). F1000Res. 5, 674 (2016)
 7. TransPac: transposon detection and characterization from long-reads. Submitted.
 
 <h1 style="color:black;">Awards</h1>
