@@ -1,7 +1,7 @@
 
 <h1 style="color:black;">About</h1>
 <p>
-I'm a 4th year PhD student at the Icahn School of Medicine at Mount Sinai, Department of Genetics and Genomic Sciences. I'm interesting in the human genome architecture and genetic variation, and the role that these play in human traits and different phenotypes.
+I'm a 5th year PhD student at the Icahn School of Medicine at Mount Sinai, Department of Genetics and Genomic Sciences. I'm interesting in the human genome architecture and genetic variation, and the role that these play in human traits and different phenotypes.
 </p>
 <p>
 In order to understand the role of genetic variation, the first step is identity all types of genetic variants. My current research is on human diploid genome assembly and structural variation, particularly in complex regions of the human genome. Two complex regions/region-types that I primarily focus on, are tandem repeats which underly several neurological disorders and the immunoglobulin heavy chain locus which encode antibody genes.
@@ -13,10 +13,11 @@ Questions that I am particularly interested in are: Why are some regions more co
 <h1 style="color:black;">Publications</h1>
 1. [Slow Delivery Immunization Enhances HIV Neutralizing Antibody and Germinal Center Responses via Modulation of Immunodominance](https://www.cell.com/cell/fulltext/S0092-8674(19)30398-8#%20). Cell (2019)
 2. [Multi-platform discovery of haplotype-resolved structural variation in human genomes](https://www.nature.com/articles/s41467-018-08148-z). Nature Commun. 10, 1784 (2019)
-3. [A unified encyclopedia of human functional elements through fully automated annotation of 164 human cell types](https://www.biorxiv.org/content/biorxiv/early/2016/11/07/086025.full.pdf). bioRxiv
-4. [MetaNetVar: Pipeline for applying network analysis tools for genomic variants analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4857755/). F1000Res. 5, 674 (2016)
-5. Haplotype resolved assembly and structural variant detection with long-reads. Submitted.
-6. TransPac: transposon detection and characterization from long-reads. Submitted.
+3. [A unified encyclopedia of human functional DNA elements through fully automated annotation of 164 human cell types](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1784-2). Genome Biol. 20, 180 (2019).
+4. [A robust benchmark for germline structural variant detection](https://www.biorxiv.org/content/10.1101/664623v3). bioRxiv 664623 (2019). doi:10.1101/664623
+5. [MetaNetVar: Pipeline for applying network analysis tools for genomic variants analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4857755/). F1000Res. 5, 674 (2016)
+6. Haplotype resolved assembly and structural variant detection with long-reads. Submitted.
+7. TransPac: transposon detection and characterization from long-reads. Submitted.
 
 <h1 style="color:black;">Awards</h1>
 1. 2018-2020 F31 Predoctoral Ruth L. Kirschstein National Research Service Award, National Institute of Neurological Disorders and Stroke, National Institute of Health
@@ -28,4 +29,4 @@ Questions that I am particularly interested in are: Why are some regions more co
 7. Boston University Bioinformatics Diversity Travel Fellowship, 2014
 
 <h1 style="color:black;">Software</h1>
-1. [Pipeline for diploid assembly and structural variant detection](https://bitbucket.org/oscarlr/mspac)
+1. [Pipeline for diploid assembly and structural variant detection](https://github.com/oscarlr/MsPAC)
