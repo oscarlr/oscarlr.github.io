@@ -1,7 +1,7 @@
 
 <h1 style="color:black;">About</h1>
 <p>
-I'm a 5th year PhD student at the Icahn School of Medicine at Mount Sinai, Department of Genetics and Genomic Sciences. I'm interesting in the human genome architecture and genetic variation, and the role that these play in human traits and different phenotypes.
+I'm a 5th year PhD student at the Icahn School of Medicine at Mount Sinai, Department of Genetics and Genomic Sciences. I'm interested in the human genome architecture and genetic variation, and the role that these play in human traits and different phenotypes.
 </p>
 <p>
 In order to understand the role of genetic variation, the first step is identity all types of genetic variants. My current research is on human diploid genome assembly and structural variation, particularly in complex regions of the human genome. Two complex regions/region-types that I primarily focus on, are tandem repeats which underly several neurological disorders and the immunoglobulin heavy chain locus which encode antibody genes.
