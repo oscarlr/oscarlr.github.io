@@ -33,3 +33,4 @@ Questions that I am particularly interested in are: Why are some regions more co
 
 <h1 style="color:black;">Software</h1>
 1. [Pipeline for diploid assembly and structural variant detection](https://github.com/oscarlr/MsPAC)
+2. [Framework to resolve the immunoglobulin heavy chain locus](https://github.com/oscarlr/IGenotyper)
