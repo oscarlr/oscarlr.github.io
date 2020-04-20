@@ -11,10 +11,10 @@ Questions that I am particularly interested in are: Why are some regions more co
 </p>
 
 <h1 style="color:black;">Publications</h1>
-1.    Libbrecht, M. W.\*, <u>Rodriguez, O. L.</u>\* (\*contributed equally). et al. A unified encyclopedia of human functional DNA elements through fully automated annotation of 164 human cell types. Genome Biol. 20, 180 (2019).
-2.    <u>Rodriguez, O. L.</u>, Ritz, A., Sharp, A. J. & Bashir, A. MsPAC: A tool for haplotype-phased structural variant detection. Bioinformatics (2019) doi:10.1093/bioinformatics/btz618.
-3.    <u>Rodriguez, O. L.</u> et al. A novel framework for characterizing genomic haplotype diversity in the human immunoglobulin heavy chain locus. doi:10.1101/2020.04.19.049270.
-4.     Moyer, E. et al. MetaNetVar: Pipeline for applying network analysis tools for genomic variants analysis. F1000Res. 5, 674 (2016).
+1.    Libbrecht, M. W.\*, <u>Rodriguez, O. L.</u>\* (\*contributed equally). et al. A unified encyclopedia of human functional DNA elements through fully automated annotation of 164 human cell types. <b>Genome Biology</b>. 20, 180 (2019).
+2.    <u>Rodriguez, O. L.</u>, Ritz, A., Sharp, A. J. & Bashir, A. MsPAC: A tool for haplotype-phased structural variant detection. <b>Bioinformatics</<b> (2019) doi:10.1093/bioinformatics/btz618.
+3.    <u>Rodriguez, O. L.</u> et al. A novel framework for characterizing genomic haplotype diversity in the human immunoglobulin heavy chain locus. <b>bioRxiv</b> doi:10.1101/2020.04.19.049270.
+4.     Moyer, E. et al. MetaNetVar: Pipeline for applying network analysis tools for genomic variants analysis. <b>F1000Res</b>. 5, 674 (2016).
 5.    Cirelli, K. M. et al. Slow Delivery Immunization Enhances HIV Neutralizing Antibody and Germinal Center Responses via Modulation of Immunodominance. Cell 0, (2019).
 6.    Chaisson, M. J. P. et al. Multi-platform discovery of haplotype-resolved structural variation in human genomes. Nat. Commun. 10, 1784 (2019).
 7.    Zook, J. M. et al. A robust benchmark for germline structural variant detection. bioRxiv 664623 (2019) doi:10.1101/664623.
