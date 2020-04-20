@@ -11,13 +11,16 @@ Questions that I am particularly interested in are: Why are some regions more co
 </p>
 
 <h1 style="color:black;">Publications</h1>
-1. [Slow Delivery Immunization Enhances HIV Neutralizing Antibody and Germinal Center Responses via Modulation of Immunodominance](https://www.cell.com/cell/fulltext/S0092-8674(19)30398-8#%20). Cell (2019)
-2. [Multi-platform discovery of haplotype-resolved structural variation in human genomes](https://www.nature.com/articles/s41467-018-08148-z). Nature Commun. 10, 1784 (2019)
-3. [A unified encyclopedia of human functional DNA elements through fully automated annotation of 164 human cell types](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1784-2). Genome Biol. 20, 180 (2019).
-4. [MsPAC: A tool for haplotype-phased structural variant detection](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz618/5545544). Bioinformatics (2019). doi:10.1093/bioinformatics/btz618
-5. [A robust benchmark for germline structural variant detection](https://www.biorxiv.org/content/10.1101/664623v3). bioRxiv 664623 (2019). doi:10.1101/664623
-6. [MetaNetVar: Pipeline for applying network analysis tools for genomic variants analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4857755/). F1000Res. 5, 674 (2016)
-7. TransPac: transposon detection and characterization from long-reads. Submitted.
+1.    Libbrecht, M. W.*, Rodriguez, O. L.* (*contributed equally). et al. A unified encyclopedia of human functional DNA elements through fully automated annotation of 164 human cell types. Genome Biol. 20, 180 (2019).
+2.    Rodriguez, O. L., Ritz, A., Sharp, A. J. & Bashir, A. MsPAC: A tool for haplotype-phased structural variant detection. Bioinformatics (2019) doi:10.1093/bioinformatics/btz618.
+3.    Rodriguez, O. L. et al. A novel framework for characterizing genomic haplotype diversity in the human immunoglobulin heavy chain locus. doi:10.1101/2020.04.19.049270.
+4.    Cirelli, K. M. et al. Slow Delivery Immunization Enhances HIV Neutralizing Antibody and Germinal Center Responses via Modulation of Immunodominance. Cell 0, (2019).
+5.    Chaisson, M. J. P. et al. Multi-platform discovery of haplotype-resolved structural variation in human genomes. Nat. Commun. 10, 1784 (2019).
+6.    Zook, J. M. et al. A robust benchmark for germline structural variant detection. bioRxiv 664623 (2019) doi:10.1101/664623.
+7.    Moyer, E. et al. MetaNetVar: Pipeline for applying network analysis tools for genomic variants analysis. F1000Res. 5, 674 (2016).
+8.    Seiden, A. H. et al. Elucidation of de novo small insertion/deletion biology with parent‐of‐origin phasing. Human Mutation vol. 41 800–806 (2020).
+9.    Garg, P. et al. A survey of rare epigenetic variation in 23,116 human genomes identifies disease-relevant epivariations and novel CGG expansions. doi:10.1101/2020.03.25.007864.
+10. TransPac: transposon detection and characterization from long-reads. Submitted.
 
 <h1 style="color:black;">Awards</h1>
 1. 2018-2020 F31 Predoctoral Ruth L. Kirschstein National Research Service Award, National Institute of Neurological Disorders and Stroke, National Institute of Health
