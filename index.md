@@ -11,7 +11,7 @@ Questions that I am particularly interested in are: Why are some regions more co
 </p>
 
 <h1 style="color:black;">Publications</h1>
-1.    Libbrecht, M. W.\*, <u>Rodriguez, O. L.\*</u> (\*contributed equally). et al. A unified encyclopedia of human functional DNA elements through fully automated annotation of 164 human cell types. Genome Biol. 20, 180 (2019).
+1.    Libbrecht, M. W.\*, <u>Rodriguez, O. L.</u>\* (\*contributed equally). et al. A unified encyclopedia of human functional DNA elements through fully automated annotation of 164 human cell types. Genome Biol. 20, 180 (2019).
 2.    <u>Rodriguez, O. L.</u>, Ritz, A., Sharp, A. J. & Bashir, A. MsPAC: A tool for haplotype-phased structural variant detection. Bioinformatics (2019) doi:10.1093/bioinformatics/btz618.
 3.    <u>Rodriguez, O. L.</u> et al. A novel framework for characterizing genomic haplotype diversity in the human immunoglobulin heavy chain locus. doi:10.1101/2020.04.19.049270.
 4.     Moyer, E. et al. MetaNetVar: Pipeline for applying network analysis tools for genomic variants analysis. F1000Res. 5, 674 (2016).
