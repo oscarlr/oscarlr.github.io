@@ -14,12 +14,12 @@ Questions that I am particularly interested in are: Why are some regions more co
 1.    <u>Rodriguez, O. L.</u> et al. [A novel framework for characterizing genomic haplotype diversity in the human immunoglobulin heavy chain locus.](https://www.biorxiv.org/content/10.1101/2020.04.19.049270v1) <b>bioRxiv</b> doi:10.1101/2020.04.19.049270.
 2.    <u>Rodriguez, O. L.</u>, Ritz, A., Sharp, A. J. & Bashir, A. [MsPAC: A tool for haplotype-phased structural variant detection.](https://academic.oup.com/bioinformatics/article/36/3/922/5545544) <b>Bioinformatics</b> (2019) doi:10.1093/bioinformatics/btz618.
 3.    Libbrecht, M. W.\*, <u>Rodriguez, O. L.</u>\* (\*contributed equally). et al. [A unified encyclopedia of human functional DNA elements through fully automated annotation of 164 human cell types](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1784-2) <b>Genome Biology</b>. 20, 180 (2019).
-4.    Garg, P. et al. A survey of rare epigenetic variation in 23,116 human genomes identifies disease-relevant epivariations and novel CGG expansions. <b>bioRxiv</b> doi:10.1101/2020.03.25.007864.
-5.    Seiden, A. H. et al. Elucidation of de novo small insertion/deletion biology with parent‐of‐origin phasing. <b>Human Mutation</b> vol. 41 800–806 (2020).
-6.    Zook, J. M. et al. A robust benchmark for germline structural variant detection. <b>bioRxiv</b> 664623 (2019) doi:10.1101/664623.
-7.    Cirelli, K. M. et al. Slow Delivery Immunization Enhances HIV Neutralizing Antibody and Germinal Center Responses via Modulation of Immunodominance. <b>Cell</b> 0, (2019).
-8.    Chaisson, M. J. P. et al. Multi-platform discovery of haplotype-resolved structural variation in human genomes. <b>Nature Commun.</b> 10, 1784 (2019).
-9.     Moyer, E. et al. MetaNetVar: Pipeline for applying network analysis tools for genomic variants analysis. <b>F1000Res</b>. 5, 674 (2016).
+4.    Garg, P. et al. [A survey of rare epigenetic variation in 23,116 human genomes identifies disease-relevant epivariations and novel CGG expansions.](https://www.biorxiv.org/content/10.1101/2020.03.25.007864v1) <b>bioRxiv</b> doi:10.1101/2020.03.25.007864.
+5.    Seiden, A. H. et al. [Elucidation of de novo small insertion/deletion biology with parent‐of‐origin phasing.](https://onlinelibrary.wiley.com/doi/full/10.1002/humu.23971) <b>Human Mutation</b> vol. 41 800–806 (2020).
+6.    Zook, J. M. et al. [A robust benchmark for germline structural variant detection.](https://www.biorxiv.org/content/10.1101/664623v1) <b>bioRxiv</b> 664623 (2019) doi:10.1101/664623.
+7.    Cirelli, K. M. et al. [Slow Delivery Immunization Enhances HIV Neutralizing Antibody and Germinal Center Responses via Modulation of Immunodominance.](https://www.sciencedirect.com/science/article/pii/S0092867419303988?via%3Dihub) <b>Cell</b> 0, (2019).
+8.    Chaisson, M. J. P. et al. [Multi-platform discovery of haplotype-resolved structural variation in human genomes.](https://www.nature.com/articles/s41467-018-08148-z) <b>Nature Commun.</b> 10, 1784 (2019).
+9.     Moyer, E. et al. [MetaNetVar: Pipeline for applying network analysis tools for genomic variants analysis.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4857755/) <b>F1000Res</b>. 5, 674 (2016).
 10. TransPac: transposon detection and characterization from long-reads. Submitted.
 
 <h1 style="color:black;">Awards</h1>
