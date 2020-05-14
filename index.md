@@ -12,8 +12,8 @@ Questions that I am particularly interested in are: Why are some regions more co
 
 <h1 style="color:black;">Publications</h1>
 1.    <u>Rodriguez, O. L.</u> et al. [A novel framework for characterizing genomic haplotype diversity in the human immunoglobulin heavy chain locus.](https://www.biorxiv.org/content/10.1101/2020.04.19.049270v1) <b>bioRxiv</b> doi:10.1101/2020.04.19.049270.
-2.    <u>Rodriguez, O. L.</u>, Ritz, A., Sharp, A. J. & Bashir, A. MsPAC: A tool for haplotype-phased structural variant detection. <b>Bioinformatics</b> (2019) doi:10.1093/bioinformatics/btz618.
-3.    Libbrecht, M. W.\*, <u>Rodriguez, O. L.</u>\* (\*contributed equally). et al. A unified encyclopedia of human functional DNA elements through fully automated annotation of 164 human cell types. <b>Genome Biology</b>. 20, 180 (2019).
+2.    <u>Rodriguez, O. L.</u>, Ritz, A., Sharp, A. J. & Bashir, A. [MsPAC: A tool for haplotype-phased structural variant detection.](https://academic.oup.com/bioinformatics/article/36/3/922/5545544) <b>Bioinformatics</b> (2019) doi:10.1093/bioinformatics/btz618.
+3.    Libbrecht, M. W.\*, <u>Rodriguez, O. L.</u>\* (\*contributed equally). et al. [A unified encyclopedia of human functional DNA elements through fully automated annotation of 164 human cell types](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1784-2) <b>Genome Biology</b>. 20, 180 (2019).
 4.    Garg, P. et al. A survey of rare epigenetic variation in 23,116 human genomes identifies disease-relevant epivariations and novel CGG expansions. <b>bioRxiv</b> doi:10.1101/2020.03.25.007864.
 5.    Seiden, A. H. et al. Elucidation of de novo small insertion/deletion biology with parent‐of‐origin phasing. <b>Human Mutation</b> vol. 41 800–806 (2020).
 6.    Zook, J. M. et al. A robust benchmark for germline structural variant detection. <b>bioRxiv</b> 664623 (2019) doi:10.1101/664623.
