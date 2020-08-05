@@ -23,13 +23,15 @@ Questions that I am particularly interested in are: Why are some regions more co
 10. TransPac: transposon detection and characterization from long-reads. Submitted.
 
 <h1 style="color:black;">Awards</h1>
-1. 2018-2020 F31 Predoctoral Ruth L. Kirschstein National Research Service Award, National Institute of Neurological Disorders and Stroke, National Institute of Health
-2. 2017 Mindich Child Health and Development Institute Trainee Pilot Program Grant
-3. 2016 American Society of Human Genetics Reviewer's Choice Abstract (abstract scored in top 10% of poster abstracts) and featured in Poster Walk. 
-4. Society for the Advancement of Chicanos/Hispanics and Native Americans 2013 National Conference Travel Scholarship
-5. University of Washington Genomic Outreach for Minorities Project Travel Scholarship, 2013
-6. University of Washington Genomic Outreach for Minorities Project Travel Scholarship, 2014
-7. Boston University Bioinformatics Diversity Travel Fellowship, 2014
+1. 2020-2022 Human Genetics Scholar, American Society of Human Genetics
+2. 2020 Charles J. Epstein Trainee Awards for Excellence in Human Genetics Research semifinalist, American Society of Human Genetics
+3. 2018-2020 F31 Predoctoral Ruth L. Kirschstein National Research Service Award, National Institute of Neurological Disorders and Stroke, National Institute of Health
+5. 2017 Mindich Child Health and Development Institute Trainee Pilot Program Grant
+6. 2016 American Society of Human Genetics Reviewer's Choice Abstract (abstract scored in top 10% of poster abstracts) and featured in Poster Walk. 
+7. Society for the Advancement of Chicanos/Hispanics and Native Americans 2013 National Conference Travel Scholarship
+8. University of Washington Genomic Outreach for Minorities Project Travel Scholarship, 2013
+9. University of Washington Genomic Outreach for Minorities Project Travel Scholarship, 2014
+10. Boston University Bioinformatics Diversity Travel Fellowship, 2014
 
 <h1 style="color:black;">Software</h1>
 1. [Pipeline for diploid assembly and structural variant detection](https://github.com/oscarlr/MsPAC)
