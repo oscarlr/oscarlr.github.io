@@ -1,14 +1,11 @@
 
-<h1 style="color:black;">About</h1>
-<p>
-I'm a 5th year PhD student at the Icahn School of Medicine at Mount Sinai, Department of Genetics and Genomic Sciences. I'm interested in the human genome architecture and genetic variation, and the role that these play in human traits and different phenotypes.
-</p>
-<p>
-In order to fully understand the role of genetic variation, the first step is identifying all types of genetic variants. My current research is on human diploid genome assembly and structural variation, particularly in complex regions of the human genome. Two complex regions/region-types that I primarily focus on, are tandem repeats which underly several neurological disorders and the immunoglobulin heavy chain locus which encode antibody genes.
-</p>
-<p>
-Questions that I am particularly interested in are: Why are some regions more complex than others? What is the/Is there an evolutionary pressure to maintain these loci more complex? Are there certain biological functions that are enriched for complex regions of the human genome? What is the role of epigenetics in these complex regions? How do these loci influence disease?
-</p>
+<h1 style="color:black;">Education and Work Experience</h1>
+<ul>
+  <li>2020 - present. Postdoc. Department of Biochemistry and Molecular Genetics, University of Louisville School of Medicine</li>
+</ul>
+    
+
+
 
 <h1 style="color:black;">Publications</h1>
 1.    <u>Rodriguez, O. L.</u> et al. [A novel framework for characterizing genomic haplotype diversity in the human immunoglobulin heavy chain locus.](https://www.frontiersin.org/articles/10.3389/fimmu.2020.02136/full) <b>Front. Immunol.</b> ((2020), doi:10.3389/fimmu.2020.02136.
