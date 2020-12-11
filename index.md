@@ -2,10 +2,11 @@
 <h1 style="color:black;">Education and Work Experience</h1>
 <ul>
   <li>2020 - present. Postdoc. Department of Biochemistry and Molecular Genetics, University of Louisville School of Medicine</li>
+  <li>2015 - 2020. PhD. Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai</li>
+  <li>2013 - 2015. Intern, postbac. Department of Genome Sciences, University of Washington</li>
+  <li>2014 (summer). Academic contractor. Cancer Signaling Biomarkers & Genetics Group, ImClone Systems (Eli Lilly Company)</li>
+  <li>2010 - 2014. Bsc in Biomedical Science (bioinformatics focus). New York University School of Engineering</li>
 </ul>
-    
-
-
 
 <h1 style="color:black;">Publications</h1>
 1.    <u>Rodriguez, O. L.</u> et al. [A novel framework for characterizing genomic haplotype diversity in the human immunoglobulin heavy chain locus.](https://www.frontiersin.org/articles/10.3389/fimmu.2020.02136/full) <b>Front. Immunol.</b> ((2020), doi:10.3389/fimmu.2020.02136.
