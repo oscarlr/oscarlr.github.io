@@ -9,7 +9,7 @@
 </ul>
 
 <h1 style="color:black;">Publications</h1>
-1.    <u>Rodriguez, O. L.</u> et al. [A novel framework for characterizing genomic haplotype diversity in the human immunoglobulin heavy chain locus.](https://www.frontiersin.org/articles/10.3389/fimmu.2020.02136/full) <b>Front. Immunol.</b> ((2020), doi:10.3389/fimmu.2020.02136.
+1.    <u>Rodriguez, O. L.</u> et al. [A novel framework for characterizing genomic haplotype diversity in the human immunoglobulin heavy chain locus.](https://www.frontiersin.org/articles/10.3389/fimmu.2020.02136/full) <b>Front. Immunol.</b> (2020), doi:10.3389/fimmu.2020.02136.
 2.    <u>Rodriguez, O. L.</u>, Ritz, A., Sharp, A. J. & Bashir, A. [MsPAC: A tool for haplotype-phased structural variant detection.](https://academic.oup.com/bioinformatics/article/36/3/922/5545544) <b>Bioinformatics</b> (2019) doi:10.1093/bioinformatics/btz618.
 3.    Libbrecht, M. W.\*, <u>Rodriguez, O. L.</u>\* (\*contributed equally). et al. [A unified encyclopedia of human functional DNA elements through fully automated annotation of 164 human cell types](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1784-2) <b>Genome Biology</b>. 20, 180 (2019).
 4.    Garg, P. et al. [Pervasive cis effects of variation in copy number of large tandem repeats on local epigenetics and gene expression](). (2020).
