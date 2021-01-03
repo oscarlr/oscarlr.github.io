@@ -24,3 +24,5 @@ datasets</th></tr>
 <tr><td style="text-align: right;">                 40</td><td style="text-align: right;">                   39</td></tr>
 </tbody>
 </table>
+
+<img src="figs/ethnicity.png"/>
