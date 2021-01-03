@@ -25,4 +25,15 @@ datasets</th></tr>
 </tbody>
 </table>
 
+<h3>Ethnicity</h3>
 <img src="figs/ethnicity.png"/>
+<br>
+<h3>Projects</h3>
+<img src="figs/project_name.png"/>
+<br>
+<h3>DNA source</h3>
+<img src="figs/dna_source.png"/>
+<br>
+<h3>Probes</h3>
+<img src="figs/probes.png"/>
+<br>
