@@ -1,5 +1,5 @@
-title: PAGE TITLE HERE
-
-layout: template
-
-filename: test
+---
+layout: test
+title: Home
+---
+<h1>{{ "Hello World!" | downcase }}</h1>
