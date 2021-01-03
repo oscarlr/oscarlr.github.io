@@ -1,3 +1,8 @@
+---
+layout: test
+title: Projects
+---
+
 <table>
 <thead>
 <tr><th style="text-align: right;">  Number of
