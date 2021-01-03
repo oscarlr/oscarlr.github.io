@@ -8,6 +8,7 @@
   <li>2010 - 2014. Bsc in Biomedical Science (bioinformatics focus), New York University</li>
 </ul>
 <h1 style="color:black;">Projects</h1>
+1.    [Resolving IGH locus across populations using long-read sequencing]()
 <h1 style="color:black;">Publications</h1>
 1.    <u>Rodriguez, O. L.</u> et al. [A novel framework for characterizing genomic haplotype diversity in the human immunoglobulin heavy chain locus.](https://www.frontiersin.org/articles/10.3389/fimmu.2020.02136/full) <b>Front. Immunol.</b> (2020), doi:10.3389/fimmu.2020.02136.
 2.    <u>Rodriguez, O. L.</u>, Ritz, A., Sharp, A. J. & Bashir, A. [MsPAC: A tool for haplotype-phased structural variant detection.](https://academic.oup.com/bioinformatics/article/36/3/922/5545544) <b>Bioinformatics</b> (2019) doi:10.1093/bioinformatics/btz618.
