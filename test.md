@@ -3,7 +3,17 @@ layout: test
 title: Projects
 ---
 
-<table border="0">
+<style>
+      table,
+      th,
+      td {
+        padding: 10px;
+        border: 1px solid black;
+        border-collapse: collapse;
+      }
+</style>
+    
+<table>
 <thead>
 <tr><th style="text-align: right;">  Number of
 samples</th><th style="text-align: right;">  Sequencing
