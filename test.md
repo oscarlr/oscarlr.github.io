@@ -3,7 +3,7 @@ layout: test
 title: Projects
 ---
 
-<table>
+<table border="0">
 <thead>
 <tr><th style="text-align: right;">  Number of
 samples</th><th style="text-align: right;">  Sequencing
