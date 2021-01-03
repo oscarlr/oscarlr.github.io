@@ -1,3 +1,3 @@
-layout: page
-title: "TEST"
-permalink: /TEST/
+title: PAGE TITLE HERE
+layout: template
+filename: test
