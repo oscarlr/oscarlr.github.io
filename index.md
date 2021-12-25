@@ -10,7 +10,7 @@
 
 <h1 style="color:black;">Publications</h1>
 <h2>2021</h2>
-1.    <u>Rodriguez, O. L.</u>, Sharp, A., Watson, C. [Limitations of lymphoblastoid cell lines for establishing genetic reference datasets in the immunoglobulin loci](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0261374) <b>Plos</b> (2021), doi.org/10.1371/journal.pone.0261374
+1.    <u>Rodriguez, O. L.</u>, Sharp, A., Watson, C. [Limitations of lymphoblastoid cell lines for establishing genetic reference datasets in the immunoglobulin loci.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0261374) <b>PLOS</b> (2021).
 2.    Peng, K. et al. [Diversity in immunogenomics: the value and the challenge](https://www.nature.com/articles/s41592-021-01169-5). <b>Nature Methods</b> (2021)
 3.    Garg, P. et al. [Pervasive cis effects of variation in copy number of large tandem repeats on local DNA methylation and gene expression](https://www.sciencedirect.com/science/article/pii/S0002929721001002). <b>Am. J. Hum. Genet</b>. 108, 809–824 (2021).
 4.    Omer, A. et al. [T Cell Receptor Beta (TRB) Germline Variability is Revealed by Inference From Repertoire Data](https://www.biorxiv.org/content/10.1101/2021.05.17.444409v1). doi:10.1101/2021.05.17.444409.
