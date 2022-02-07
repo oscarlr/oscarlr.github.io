@@ -9,11 +9,13 @@
 </ul>
 
 <h1 style="color:black;">Publications</h1>
+<h2>2022</h2>
+1.  Omer, A. et al. [T Cell Receptor Beta (TRB) Germline Variability is Revealed by Inference From Repertoire Data](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-01008-4). <b>Genome Medicine</b>. 14, 2 (2022).
+2.  Garg, P. et al. [A phenome-wide association study identifies effects of copy number variation of VNTRs and multicopy genes on multiple human traits](https://www.medrxiv.org/content/10.1101/2022.01.26.22269891v1). <b>medRxiv</b> (2022).
 <h2>2021</h2>
 1.    <u>Rodriguez, O. L.</u>, Sharp, A., Watson, C. [Limitations of lymphoblastoid cell lines for establishing genetic reference datasets in the immunoglobulin loci.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0261374) <b>PLOS</b> (2021).
 2.    Peng, K. et al. [Diversity in immunogenomics: the value and the challenge](https://www.nature.com/articles/s41592-021-01169-5). <b>Nature Methods</b> (2021)
 3.    Garg, P. et al. [Pervasive cis effects of variation in copy number of large tandem repeats on local DNA methylation and gene expression](https://www.sciencedirect.com/science/article/pii/S0002929721001002). <b>Am. J. Hum. Genet</b>. 108, 809–824 (2021).
-4.    Omer, A. et al. [T Cell Receptor Beta (TRB) Germline Variability is Revealed by Inference From Repertoire Data](https://www.biorxiv.org/content/10.1101/2021.05.17.444409v1). doi:10.1101/2021.05.17.444409.
 <h2>2020</h2>
 1.    <u>Rodriguez, O. L.</u> et al. [A novel framework for characterizing genomic haplotype diversity in the human immunoglobulin heavy chain locus.](https://www.frontiersin.org/articles/10.3389/fimmu.2020.02136/full) <b>Front. Immunol.</b> (2020), doi:10.3389/fimmu.2020.02136.
 2.    Garg, P. et al. [A survey of rare epigenetic variation in 23,116 human genomes identifies disease-relevant epivariations and novel CGG expansions.](https://www.sciencedirect.com/science/article/pii/S0002929720302883) <b>Am. J. Hum. Genet.</b> 107, 654–669 (2020).
