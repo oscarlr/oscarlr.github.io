@@ -12,6 +12,7 @@
 <h2>2022</h2>
 1.  Omer, A. et al. [T Cell Receptor Beta (TRB) Germline Variability is Revealed by Inference From Repertoire Data](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-01008-4). <b>Genome Medicine</b>. 14, 2 (2022).
 2.  Garg, P. et al. [A phenome-wide association study identifies effects of copy number variation of VNTRs and multicopy genes on multiple human traits](https://www.medrxiv.org/content/10.1101/2022.01.26.22269891v1). <b>medRxiv</b> (2022).
+3.  Fordm, M. et al. [ImmunoTyper-SR: A Novel Computational Approach for Genotyping Immunoglobulin Heavy Chain Variable Genes using Short Read Data](https://www.biorxiv.org/content/10.1101/2022.01.31.478564v1). <b>bioRxiv</b> (2022).
 <h2>2021</h2>
 1.    <u>Rodriguez, O. L.</u>, Sharp, A., Watson, C. [Limitations of lymphoblastoid cell lines for establishing genetic reference datasets in the immunoglobulin loci.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0261374) <b>PLOS</b> (2021).
 2.    Peng, K. et al. [Diversity in immunogenomics: the value and the challenge](https://www.nature.com/articles/s41592-021-01169-5). <b>Nature Methods</b> (2021)
