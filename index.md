@@ -10,6 +10,7 @@
 
 <h1 style="color:black;">Publications</h1>
 <h2>2022</h2>
+1.  <u>Rodriguez, O. L.</u> et al. [Antibody repertoire gene usage is explained by common genetic variants in the immunoglobulin heavy chain locus](https://www.biorxiv.org/content/10.1101/2022.07.04.498729v1). <b>biorxiv</b> (2022)
 1.  <u>Rodriguez, O. L.</u> et al. [Targeted long-read sequencing facilitates phased diploid assembly and genotyping of the human T cell receptor alpha, delta and beta loci](https://www.biorxiv.org/content/10.1101/2022.05.24.493244v1). <b>biorxiv</b> (2022)
 1.  Omer, A. et al. [T Cell Receptor Beta (TRB) Germline Variability is Revealed by Inference From Repertoire Data](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-01008-4). <b>Genome Medicine</b>. 14, 2 (2022).
 2.  Garg, P. et al. [A phenome-wide association study identifies effects of copy number variation of VNTRs and multicopy genes on multiple human traits](https://www.cell.com/ajhg/fulltext/S0002-9297(22)00164-1). <b>Am. J. Hum. Genet.</b> (2022).
