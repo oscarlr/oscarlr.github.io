@@ -39,6 +39,7 @@
 
 
 <h1 style="color:black;">Awards</h1>
+1. 2022-2024 Zuckerman Postdoctoral Scholar, Zuckerman STEM Leadership Program, Zuckerman Institute
 1. 2020-2022 Human Genetics Scholar, American Society of Human Genetics
 2. 2020 Charles J. Epstein Trainee Awards for Excellence in Human Genetics Research semifinalist, American Society of Human Genetics
 3. 2018-2020 F31 Predoctoral Ruth L. Kirschstein National Research Service Award, National Institute of Neurological Disorders and Stroke, National Institute of Health
