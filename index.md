@@ -1,6 +1,7 @@
 
 <h1 style="color:black;">Education and Work Experience</h1>
 <ul>
+  <li>2022 - present. Postdoc. Faculty of Engineering, Bar-Ilan University</li>
   <li>2020 - present. Postdoc. Department of Biochemistry and Molecular Genetics, University of Louisville School of Medicine</li>
   <li>2015 - 2020. PhD. Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai</li>
   <li>2013 - 2015. Intern, postbac. Department of Genome Sciences, University of Washington</li>
@@ -11,10 +12,14 @@
 <h1 style="color:black;">Publications</h1>
 <h2>2022</h2>
 1.  <u>Rodriguez, O. L.</u> et al. [Antibody repertoire gene usage is explained by common genetic variants in the immunoglobulin heavy chain locus](https://www.biorxiv.org/content/10.1101/2022.07.04.498729v1). <b>biorxiv</b> (2022)
-1.  <u>Rodriguez, O. L.</u> et al. [Targeted long-read sequencing facilitates phased diploid assembly and genotyping of the human T cell receptor alpha, delta and beta loci](https://www.biorxiv.org/content/10.1101/2022.05.24.493244v1). <b>biorxiv</b> (2022)
-1.  Omer, A. et al. [T Cell Receptor Beta (TRB) Germline Variability is Revealed by Inference From Repertoire Data](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-01008-4). <b>Genome Medicine</b>. 14, 2 (2022).
-2.  Garg, P. et al. [A phenome-wide association study identifies effects of copy number variation of VNTRs and multicopy genes on multiple human traits](https://www.cell.com/ajhg/fulltext/S0002-9297(22)00164-1). <b>Am. J. Hum. Genet.</b> (2022).
-3.  Ford, M. et al. [ImmunoTyper-SR: A Novel Computational Approach for Genotyping Immunoglobulin Heavy Chain Variable Genes using Short Read Data](https://www.biorxiv.org/content/10.1101/2022.01.31.478564v1). <b>bioRxiv</b> (2022).
+2.  <u>Rodriguez, O. L.</u> et al. [Targeted long-read sequencing facilitates phased diploid assembly and genotyping of the human T cell receptor alpha, delta and beta loci](https://www.biorxiv.org/content/10.1101/2022.05.24.493244v1). <b>biorxiv</b> (2022)
+3.  Ke, H. et al. Human Long Range IGHV Haplotypes Impact Influenza Vaccine Responsiveness. <b>In review</b> (2022)
+4.  Pennell, M., <u>Rodriguez, O.L.</u>, Watson, C.T., and Grieff, V.G. [On the evolutionary cause and functional significance of immunoglobulin germline gene variation](https://www.cell.com/trends/immunology/fulltext/S1471-4906(22)00236-8). <b>Trends Immunology<b>. doi:10.1016/j.it.2022.11.001
+5.  Gibson, W.S et al. [Characterization of the immunoglobulin lambda chain locus from diverse populations reveals extensive genetic variation](https://www.nature.com/articles/s41435-022-00188-2). <b>Genes & Immunity</b> (2022)
+6.  Omer, A. et al. [T Cell Receptor Beta (TRB) Germline Variability is Revealed by Inference From Repertoire Data](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-01008-4). <b>Genome Medicine</b>. 14, 2 (2022).
+7.  Ford, E. et al. [Development and validation of a novel framework for full length Adaptive Immune Receptor Repertoire Sequencing (FLAIRR-seq)](https://www.biorxiv.org/content/10.1101/2022.09.24.509352v3).<b>biorxiv</b>
+8.  Garg, P. et al. [A phenome-wide association study identifies effects of copy number variation of VNTRs and multicopy genes on multiple human traits](https://www.cell.com/ajhg/fulltext/S0002-9297(22)00164-1). <b>Am. J. Hum. Genet.</b> (2022).
+9.  Ford, M. et al. [ImmunoTyper-SR: A Novel Computational Approach for Genotyping Immunoglobulin Heavy Chain Variable Genes using Short Read Data](https://www.biorxiv.org/content/10.1101/2022.01.31.478564v1). <b>bioRxiv</b> (2022).
 <h2>2021</h2>
 1.    <u>Rodriguez, O. L.</u>, Sharp, A., Watson, C. [Limitations of lymphoblastoid cell lines for establishing genetic reference datasets in the immunoglobulin loci.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0261374) <b>PLOS</b> (2021).
 2.    Peng, K. et al. [Diversity in immunogenomics: the value and the challenge](https://www.nature.com/articles/s41592-021-01169-5). <b>Nature Methods</b> (2021)
