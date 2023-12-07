@@ -1,7 +1,7 @@
 
 <h1 style="color:black;">Education and Work Experience</h1>
 <ul>
-  <li>2022 - present. Postdoc. Faculty of Engineering, Bar-Ilan University</li>
+  <li>2022 - 2023. Postdoc. Faculty of Engineering, Bar-Ilan University</li>
   <li>2020 - present. Postdoc. Department of Biochemistry and Molecular Genetics, University of Louisville School of Medicine</li>
   <li>2015 - 2020. PhD. Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai</li>
   <li>2013 - 2015. Intern, postbac. Department of Genome Sciences, University of Washington</li>
