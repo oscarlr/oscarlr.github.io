@@ -11,12 +11,12 @@
 
 <h1 style="color:black;">Publications</h1>
 <h2>2023</h2>
-1.  <u>Rodriguez, O. L.</u> et al. [Antibody repertoire gene usage is explained by common genetic variants in the immunoglobulin heavy chain locus](https://www.nature.com/articles/s41467-023-40070-x). <b>Nature Communications</b> (2022)
+1.  <u>Rodriguez, O. L.</u> et al. [Antibody repertoire gene usage is explained by common genetic variants in the immunoglobulin heavy chain locus](https://www.nature.com/articles/s41467-023-40070-x). <b>Nature Communications</b> 
 2.  Pennell, M., <u>Rodriguez, O.L.</u>, Watson, C.T., and Grieff, V.G. [On the evolutionary cause and functional significance of immunoglobulin germline gene variation](https://www.cell.com/trends/immunology/fulltext/S1471-4906(22)00236-8). <b>Trends Immunology</b>. doi:10.1016/j.it.2022.11.001
 3.  Gibson, W.S et al. [Characterization of the immunoglobulin lambda chain locus from diverse populations reveals extensive genetic variation](https://www.nature.com/articles/s41435-022-00188-2). <b>Genes & Immunity</b> (2022)
-4.  Ford, E. et al. [Flairr-seq: A method for single-molecule resolution of near full-length antibody H chain repertoires](https://journals.aai.org/jimmunol/article/210/10/1607/263586).<b>Journal of Immunology</b>
-5. Peres, A. et al. [IGHV allele similarity clustering improves genotype inference from adaptive immune receptor repertoire sequencing data](https://academic.oup.com/nar/article/51/16/e86/7238142)<b>Nucleic Acids Research</b>
-6. Li, F. et al. [IgM marks persistent IgG anti-human leukocyte antigen antibodies in highly sensitized heart transplant patients](https://www.sciencedirect.com/science/article/abs/pii/S1053249823020557)<b>Journal of Heart and Lung Transplantation</b>
+4.  Ford, E. et al. [Flairr-seq: A method for single-molecule resolution of near full-length antibody H chain repertoires](https://journals.aai.org/jimmunol/article/210/10/1607/263586). <b>Journal of Immunology</b>
+5. Peres, A. et al. [IGHV allele similarity clustering improves genotype inference from adaptive immune receptor repertoire sequencing data](https://academic.oup.com/nar/article/51/16/e86/7238142) <b>Nucleic Acids Research</b>
+6. Li, F. et al. [IgM marks persistent IgG anti-human leukocyte antigen antibodies in highly sensitized heart transplant patients](https://www.sciencedirect.com/science/article/abs/pii/S1053249823020557) <b>Journal of Heart and Lung Transplantation</b>
 7. Watson, C. et al. [Looking to the future of antibody genetics: resolving the roles of immunoglobulin diversity in gene regulation, function, and immunity](www.nature.com/articles/s41435-022-00188-2). <b>Genes & Immunity</b> (2022))<b>Genes & Immunity</b>
 8.  Ke, H. et al. Human Long Range IGHV Haplotypes Impact Influenza Vaccine Responsiveness. <b>In review</b> (2023)
 <h2>2022</h2>
