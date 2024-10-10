@@ -1,0 +1,29 @@
+name: Update Publications
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Runs every Sunday at midnight
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+
+      - name: Install Scholarly
+        run: pip install scholarly
+
+      - name: Fetch Publications
+        run: |
+          python fetch_publications.py
+          git config --global user.email "olrodriguez01@gmail.com"
+          git config --global user.name "oscarlr"
+          git add publications.json
+          git commit -m "Update publications"
+          git push
