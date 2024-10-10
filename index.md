@@ -9,8 +9,6 @@
   <li>2010 - 2014. Bsc in Biomedical Science (bioinformatics focus), New York University</li>
 </ul>
 
-<iframe src="https://scholar.google.com/citations?user=AVzJo1MAAAAJ&hl=en" width="100%" height="800"></iframe>
-
 <h1 style="color:black;">Publications</h1>
 <h2>2023</h2>
 1.  <u>Rodriguez, O. L.</u> et al. [Antibody repertoire gene usage is explained by common genetic variants in the immunoglobulin heavy chain locus](https://www.nature.com/articles/s41467-023-40070-x). <b>Nature Communications</b> 
