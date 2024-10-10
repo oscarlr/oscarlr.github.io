@@ -2,7 +2,8 @@ name: Update Publications
 
 on:
   schedule:
-    - cron: '0 0 * * 0' # Runs every Sunday at midnight
+    - cron: '0 0 * * 0'  # Runs every Sunday at midnight
+  workflow_dispatch:  # Enables manual trigger
 
 jobs:
   update:
