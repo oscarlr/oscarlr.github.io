@@ -1,4 +1,8 @@
-<h2 style="color:black;">Research</h2>
-<h2 style="color:black;">Publications</h2>
-<h2 style="color:black;">Team</h2>
+1. Research
+1. Publications
+1. Team
+
+<h3 style="color:black;">Research</h3>
+<h3 style="color:black;">Publications</h3>
+<h3 style="color:black;">Team</h3>
 
