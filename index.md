@@ -1,6 +1,6 @@
-- [Research](#research)
-- [Publications](#publications)
-- [Team](#team)
+[Research](#research)
+[Publications](#publications)
+[Team](#team)
 
 ## Research
 Content about research goes here...
