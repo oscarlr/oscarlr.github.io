@@ -15,21 +15,27 @@
   <title>My Publications</title>
 </head>
 <body>
-  <h1>My Publications</h1>
-  <ul id="publications-list"></ul>
-  <script>
-    fetch('publications.json')
-      .then(response => response.json())
-      .then(data => {
-        const list = document.getElementById('publications-list');
-        data.forEach(pub => {
-          const listItem = document.createElement('li');
-          listItem.textContent = `${pub.bib.title} (${pub.bib.pub_year})`;
-          list.appendChild(listItem);
-        });
-      })
-      .catch(error => console.error('Error fetching publications:', error));
-  </script>
+
+<h1>My Publications</h1>
+<ul id="publications-list"></ul>
+<script>
+  fetch('publications.json')
+    .then(response => {
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      return response.json();
+    })
+    .then(data => {
+      const list = document.getElementById('publications-list');
+      data.forEach(pub => {
+        const listItem = document.createElement('li');
+        listItem.textContent = `${pub.title} (${pub.year})`;
+        list.appendChild(listItem);
+      });
+    })
+    .catch(error => console.error('Error fetching publications:', error));
+</script>
 </body>
 
 
