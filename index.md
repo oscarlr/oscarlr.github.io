@@ -9,6 +9,30 @@
   <li>2010 - 2014. Bsc in Biomedical Science (bioinformatics focus), New York University</li>
 </ul>
 
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Publications</title>
+</head>
+<body>
+  <h1>My Publications</h1>
+  <ul id="publications-list"></ul>
+  <script>
+    fetch('publications.json')
+      .then(response => response.json())
+      .then(data => {
+        const list = document.getElementById('publications-list');
+        data.forEach(pub => {
+          const listItem = document.createElement('li');
+          listItem.textContent = `${pub.bib.title} (${pub.bib.pub_year})`;
+          list.appendChild(listItem);
+        });
+      })
+      .catch(error => console.error('Error fetching publications:', error));
+  </script>
+</body>
+
+
 <h1 style="color:black;">Publications</h1>
 <h2>2023</h2>
 1.  <u>Rodriguez, O. L.</u> et al. [Antibody repertoire gene usage is explained by common genetic variants in the immunoglobulin heavy chain locus](https://www.nature.com/articles/s41467-023-40070-x). <b>Nature Communications</b> 
