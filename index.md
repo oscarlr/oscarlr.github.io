@@ -1,8 +1,12 @@
-1. Research
-1. Publications
-1. Team
+- [Research](#research)
+- [Publications](#publications)
+- [Team](#team)
 
-<h3 style="color:black;">Research</h3>
-<h3 style="color:black;">Publications</h3>
-<h3 style="color:black;">Team</h3>
+## Research
+Content about research goes here...
 
+## Publications
+Content about publications goes here...
+
+## Team
+Content about the team goes here...
