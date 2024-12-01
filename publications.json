@@ -105,6 +105,13 @@
         "url": "https://www.cell.com/cell-genomics/fulltext/S2666-979X(22)00186-0"
     },
     {
+        "title": "Vaccination induces broadly neutralizing antibody precursors to HIV gp41",
+        "year": 2024,
+        "journal": "Nature immunology",
+        "authors": "Torben Schiffner, Ivy Phung, Rashmi Ray, Adriana Irimia, Ming Tian, Olivia Swanson, Jeong Hyun Lee, Chang-Chun D Lee, Ester Marina-Z\u00e1rate, So Yeon Cho, Jiachen Huang, Gabriel Ozorowski, Patrick D Skog, Andreia M Serra, Kimmo Rantalainen, Joel D Allen, Sabyasachi Baboo, Oscar L Rodriguez, Sunny Himansu, Jianfu Zhou, Jonathan Hurtado, Claudia T Flynn, Katherine McKenney, Colin Havenar-Daughton, Swati Saha, Kaitlyn Shields, Steven Schultze, Melissa L Smith, Chi-Hui Liang, Laura Toy, Simone Pecetta, Ying-Cing Lin, Jordan R Willis, Fabian Sesterhenn, Daniel W Kulp, Xiaozhen Hu, Christopher A Cottrell, Xiaoya Zhou, Jennifer Ruiz, Xuesong Wang, Usha Nair, Kathrin H Kirsch, Hwei-Ling Cheng, Jillian Davis, Oleksandr Kalyuzhniy, Alessia Liguori, Jolene K Diedrich, Julia T Ngo, Vanessa Lewis, Nicole Phelps, Ryan D Tingle, Skye Spencer, Erik Georgeson, Yumiko Adachi, Michael Kubitz, Saman Eskandarzadeh, Marc A Elsliger, Rama R Amara, Elise Landais, Bryan Briney, Dennis R Burton, Diane G Carnathan, Guido Silvestri, Corey T Watson, John R Yates III, James C Paulson, Max Crispin, Gevorg Grigoryan, Andrew B Ward, Devin Sok, Frederick W Alt, Ian A Wilson, Facundo D Batista, Shane Crotty, William R Schief",
+        "url": "https://www.nature.com/articles/s41590-024-01833-w"
+    },
+    {
         "title": "IGHV allele similarity clustering improves genotype inference from adaptive immune receptor repertoire sequencing data",
         "year": 2023,
         "journal": "Nucleic Acids Research",
@@ -119,18 +126,18 @@
         "url": "https://journals.aai.org/jimmunol/article/210/10/1607/263586"
     },
     {
-        "title": "Vaccination induces broadly neutralizing antibody precursors to HIV gp41",
-        "year": 2024,
-        "journal": "Nature immunology",
-        "authors": "Torben Schiffner, Ivy Phung, Rashmi Ray, Adriana Irimia, Ming Tian, Olivia Swanson, Jeong Hyun Lee, Chang-Chun D Lee, Ester Marina-Z\u00e1rate, So Yeon Cho, Jiachen Huang, Gabriel Ozorowski, Patrick D Skog, Andreia M Serra, Kimmo Rantalainen, Joel D Allen, Sabyasachi Baboo, Oscar L Rodriguez, Sunny Himansu, Jianfu Zhou, Jonathan Hurtado, Claudia T Flynn, Katherine McKenney, Colin Havenar-Daughton, Swati Saha, Kaitlyn Shields, Steven Schultze, Melissa L Smith, Chi-Hui Liang, Laura Toy, Simone Pecetta, Ying-Cing Lin, Jordan R Willis, Fabian Sesterhenn, Daniel W Kulp, Xiaozhen Hu, Christopher A Cottrell, Xiaoya Zhou, Jennifer Ruiz, Xuesong Wang, Usha Nair, Kathrin H Kirsch, Hwei-Ling Cheng, Jillian Davis, Oleksandr Kalyuzhniy, Alessia Liguori, Jolene K Diedrich, Julia T Ngo, Vanessa Lewis, Nicole Phelps, Ryan D Tingle, Skye Spencer, Erik Georgeson, Yumiko Adachi, Michael Kubitz, Saman Eskandarzadeh, Marc A Elsliger, Rama R Amara, Elise Landais, Bryan Briney, Dennis R Burton, Diane G Carnathan, Guido Silvestri, Corey T Watson, John R Yates III, James C Paulson, Max Crispin, Gevorg Grigoryan, Andrew B Ward, Devin Sok, Frederick W Alt, Ian A Wilson, Facundo D Batista, Shane Crotty, William R Schief",
-        "url": "https://www.nature.com/articles/s41590-024-01833-w"
-    },
-    {
         "title": "Limitations of lymphoblastoid cell lines for establishing genetic reference datasets in the immunoglobulin loci",
         "year": 2021,
         "journal": "Plos one",
         "authors": "Oscar L Rodriguez, Andrew J Sharp, Corey T Watson",
         "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0261374"
+    },
+    {
+        "title": "Vaccine priming of rare HIV broadly neutralizing antibody precursors in nonhuman primates",
+        "year": 2024,
+        "journal": "Science",
+        "authors": "Jon M Steichen, Ivy Phung, Eugenia Salcedo, Gabriel Ozorowski, Jordan R Willis, Sabyasachi Baboo, Alessia Liguori, Christopher A Cottrell, Jonathan L Torres, Patrick J Madden, Krystal M Ma, Henry J Sutton, Jeong Hyun Lee, Oleksandr Kalyuzhniy, Joel D Allen, Oscar L Rodriguez, Yumiko Adachi, Tina-Marie Mullen, Erik Georgeson, Michael Kubitz, Alison Burns, Shawn Barman, Rohini Mopuri, Amanda Metz, Tasha K Altheide, Jolene K Diedrich, Swati Saha, Kaitlyn Shields, Steven E Schultze, Melissa L Smith, Torben Schiffner, Dennis R Burton, Corey T Watson, Steven E Bosinger, Max Crispin, John R Yates III, James C Paulson, Andrew B Ward, Devin Sok, Shane Crotty, William R Schief",
+        "url": "https://www.science.org/doi/abs/10.1126/science.adj8321"
     },
     {
         "title": "AIRR-C IG Reference Sets: curated sets of immunoglobulin heavy and light chain germline genes",
@@ -140,11 +147,11 @@
         "url": "https://www.frontiersin.org/articles/10.3389/fimmu.2023.1330153/full"
     },
     {
-        "title": "Vaccine priming of rare HIV broadly neutralizing antibody precursors in nonhuman primates",
+        "title": "Resolving haplotype variation and complex genetic architecture in the human immunoglobulin kappa chain locus in individuals of diverse ancestry",
         "year": 2024,
-        "journal": "Science",
-        "authors": "Jon M Steichen, Ivy Phung, Eugenia Salcedo, Gabriel Ozorowski, Jordan R Willis, Sabyasachi Baboo, Alessia Liguori, Christopher A Cottrell, Jonathan L Torres, Patrick J Madden, Krystal M Ma, Henry J Sutton, Jeong Hyun Lee, Oleksandr Kalyuzhniy, Joel D Allen, Oscar L Rodriguez, Yumiko Adachi, Tina-Marie Mullen, Erik Georgeson, Michael Kubitz, Alison Burns, Shawn Barman, Rohini Mopuri, Amanda Metz, Tasha K Altheide, Jolene K Diedrich, Swati Saha, Kaitlyn Shields, Steven E Schultze, Melissa L Smith, Torben Schiffner, Dennis R Burton, Corey T Watson, Steven E Bosinger, Max Crispin, John R Yates III, James C Paulson, Andrew B Ward, Devin Sok, Shane Crotty, William R Schief",
-        "url": "https://www.science.org/doi/abs/10.1126/science.adj8321"
+        "journal": "Genes & Immunity",
+        "authors": "Eric Engelbrecht, Oscar L Rodriguez, Kaitlyn Shields, Steven Schultze, David Tieri, Uddalok Jana, Gur Yaari, William D Lees, Melissa L Smith, Corey T Watson",
+        "url": "https://www.nature.com/articles/s41435-024-00279-2"
     },
     {
         "title": "Elucidation of de novo small insertion/deletion biology with parent\u2010of\u2010origin phasing",
@@ -159,13 +166,6 @@
         "journal": "F1000Research",
         "authors": "Eric Moyer, Megan Hagenauer, Matthew Lesko, Felix Francis, Oscar Rodriguez, Vijayaraj Nagarajan, Vojtech Huser, Ben Busby",
         "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4857755/"
-    },
-    {
-        "title": "Resolving haplotype variation and complex genetic architecture in the human immunoglobulin kappa chain locus in individuals of diverse ancestry",
-        "year": 2024,
-        "journal": "Genes & Immunity",
-        "authors": "Eric Engelbrecht, Oscar L Rodriguez, Kaitlyn Shields, Steven Schultze, David Tieri, Uddalok Jana, Gur Yaari, William D Lees, Melissa L Smith, Corey T Watson",
-        "url": "https://www.nature.com/articles/s41435-024-00279-2"
     },
     {
         "title": "Looking to the future of antibody genetics: resolving the roles of immunoglobulin diversity in gene regulation, function, and immunity",
@@ -200,7 +200,7 @@
         "year": 2024,
         "journal": "The Journal of Immunology",
         "authors": "Eric Engelbrecht, Oscar L Rodriguez, Corey T Watson",
-        "url": "https://journals.aai.org/jimmunol/article/213/5/651/267012"
+        "url": "https://journals.aai.org/jimmunol/article-pdf/213/5/651/1660561/ji2400131.pdf"
     },
     {
         "title": "Using Long-Read Sequencing to Resolve Complex Regions of the Genome",
