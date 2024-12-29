@@ -63,18 +63,18 @@
         "url": "https://link.springer.com/article/10.1186/s13073-021-01008-4"
     },
     {
-        "title": "Pervasive cis effects of variation in copy number of large tandem repeats on local DNA methylation and gene expression",
-        "year": 2021,
-        "journal": "The American Journal of Human Genetics",
-        "authors": "Paras Garg, Alejandro Martin-Trujillo, Oscar L Rodriguez, Scott J Gies, Elina Hadelia, Bharati Jadhav, Miten Jain, Benedict Paten, Andrew J Sharp",
-        "url": "https://www.cell.com/ajhg/fulltext/S0002-9297(21)00100-2"
-    },
-    {
         "title": "The evolutionary and functional significance of germline immunoglobulin gene variation",
         "year": 2023,
         "journal": "Unknown",
         "authors": "Matt Pennell, Oscar L Rodriguez, Corey T Watson, Victor Greiff",
         "url": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(22)00236-8"
+    },
+    {
+        "title": "Pervasive cis effects of variation in copy number of large tandem repeats on local DNA methylation and gene expression",
+        "year": 2021,
+        "journal": "The American Journal of Human Genetics",
+        "authors": "Paras Garg, Alejandro Martin-Trujillo, Oscar L Rodriguez, Scott J Gies, Elina Hadelia, Bharati Jadhav, Miten Jain, Benedict Paten, Andrew J Sharp",
+        "url": "https://www.cell.com/ajhg/fulltext/S0002-9297(21)00100-2"
     },
     {
         "title": "Characterization of the immunoglobulin lambda chain locus from diverse populations reveals extensive genetic variation",
@@ -192,8 +192,8 @@
         "title": "Ultrasensitive allele inference from immune repertoire sequencing data with MiXCR",
         "year": 2024,
         "journal": "Genome Research",
-        "authors": "Artem Mikelov, George Nefedev, Aleksandr Tashkeev, Oscar L Rodriguez, Diego A Ortmans, Valeriia Skatova, Mark Izraelson, Alexey N Davydov, Stanislav Poslavsky, Souad Rahmouni, Corey T Watson, Dmitriy M Chudakov, Scott D Boyd, Dmitry A Bolotin",
-        "url": "https://genome.cshlp.org/content/early/2024/10/21/gr.278775.123.abstract"
+        "authors": "Artem Mikelov, George Nefediev, Alexander Tashkeev, Oscar L Rodriguez, Diego Aguilar Ortmans, Valeriia Skatova, Mark Izraelson, Alexey N Davydov, Stanislav Poslavsky, Souad Rahmouni, Corey T Watson, Dmitriy Chudakov, Scott D Boyd, Dmitry Bolotin",
+        "url": "https://genome.cshlp.org/content/34/12/2293.short"
     },
     {
         "title": "Addressing technical pitfalls in pursuit of molecular factors that mediate immunoglobulin gene regulation",
