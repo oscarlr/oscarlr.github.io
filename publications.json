@@ -112,17 +112,17 @@
         "url": ""
     },
     {
-        "title": "Targeted long-read sequencing facilitates phased diploid assembly and genotyping of the human T cell receptor alpha, delta, and beta loci",
-        "year": 2022,
-        "journal": "Cell Genomics",
-        "authors": "Oscar L Rodriguez, Catherine A Silver, Kaitlyn Shields, Melissa L Smith, Corey T Watson",
-        "url": ""
-    },
-    {
         "title": "Vaccine priming of rare HIV broadly neutralizing antibody precursors in nonhuman primates",
         "year": 2024,
         "journal": "Science",
         "authors": "Jon M Steichen, Ivy Phung, Eugenia Salcedo, Gabriel Ozorowski, Jordan R Willis, Sabyasachi Baboo, Alessia Liguori, Christopher A Cottrell, Jonathan L Torres, Patrick J Madden, Krystal M Ma, Henry J Sutton, Jeong Hyun Lee, Oleksandr Kalyuzhniy, Joel D Allen, Oscar L Rodriguez, Yumiko Adachi, Tina-Marie Mullen, Erik Georgeson, Michael Kubitz, Alison Burns, Shawn Barman, Rohini Mopuri, Amanda Metz, Tasha K Altheide, Jolene K Diedrich, Swati Saha, Kaitlyn Shields, Steven E Schultze, Melissa L Smith, Torben Schiffner, Dennis R Burton, Corey T Watson, Steven E Bosinger, Max Crispin, John R Yates III, James C Paulson, Andrew B Ward, Devin Sok, Shane Crotty, William R Schief",
+        "url": ""
+    },
+    {
+        "title": "Targeted long-read sequencing facilitates phased diploid assembly and genotyping of the human T cell receptor alpha, delta, and beta loci",
+        "year": 2022,
+        "journal": "Cell Genomics",
+        "authors": "Oscar L Rodriguez, Catherine A Silver, Kaitlyn Shields, Melissa L Smith, Corey T Watson",
         "url": ""
     },
     {
@@ -182,13 +182,6 @@
         "url": ""
     },
     {
-        "title": "Looking to the future of antibody genetics: resolving the roles of immunoglobulin diversity in gene regulation, function, and immunity",
-        "year": 2024,
-        "journal": "Genes & Immunity",
-        "authors": "Corey T Watson, Oscar L Rodriguez, Eric Engelbrecht, Yana Safonova, Wayne A Marasco, Melissa L Smith",
-        "url": ""
-    },
-    {
         "title": "Ultrasensitive allele inference from immune repertoire sequencing data with MiXCR",
         "year": 2024,
         "journal": "Genome Research",
@@ -196,10 +189,31 @@
         "url": ""
     },
     {
+        "title": "Looking to the future of antibody genetics: resolving the roles of immunoglobulin diversity in gene regulation, function, and immunity",
+        "year": 2024,
+        "journal": "Genes & Immunity",
+        "authors": "Corey T Watson, Oscar L Rodriguez, Eric Engelbrecht, Yana Safonova, Wayne A Marasco, Melissa L Smith",
+        "url": ""
+    },
+    {
+        "title": "Diverse priming outcomes under conditions of very rare precursor B cells",
+        "year": 2024,
+        "journal": "bioRxiv",
+        "authors": "Patrick J Madden, Ester Marina-Z\u00e1rate, Kristen A Rodrigues, Jon M Steichen, Monolina Shil, Kaiyuan Ni, Katarzyna Kaczmarek Michaels, Laura Maiorino, Amit A Upadhyay, Swati Saha, Arpan Pradhan, Oleksandr Kalyuzhiny, Alessia Liguori, Paul G Lopez, Ivy Phung, Nicole Phelps, Erik Georgeson, Nushin Alavi, Michael Kubitz, Danny Lu, Saman Eskandarzadeh, Amanda Metz, Oscar L Rodriguez, Kaitlyn Shields, Steven Schultze, Melissa L Smith, Brandon S Healy, Deuk Lim, Vanessa R Lewis, Elana Ben-Akiva, William Pinney III, Justin Gregory, Shuhao Xiao, Diane G Carnathan, Sudhir Pai Kasturi, Corey T Watson, Steven E Bosinger, Guido Silvestri, William R Schief, Darrell J Irvine, Shane Crotty",
+        "url": ""
+    },
+    {
         "title": "Addressing technical pitfalls in pursuit of molecular factors that mediate immunoglobulin gene regulation",
         "year": 2024,
         "journal": "The Journal of Immunology",
         "authors": "Eric Engelbrecht, Oscar L Rodriguez, Corey T Watson",
+        "url": ""
+    },
+    {
+        "title": "The human immunoglobulin heavy chain constant gene locus is enriched for large complex structural variants and coding polymorphisms that vary in frequency among human populations",
+        "year": 2025,
+        "journal": "bioRxiv",
+        "authors": "Uddalok Jana, Oscar L Rodriguez, William Lees, Eric Engelbrecht, Zachary Vanwinkle, Ayelet Peres, William Gibson, Kaitlyn Shields, Steven Schultze, Abdullah G Dorgham, Matthew Emery, Gintaras Deikus, Robert Sebra, Evan E Eichler, Gur Yaari, Melissa L Smith, Corey T Watson",
         "url": ""
     },
     {
